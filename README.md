@@ -8,3 +8,4 @@ Pseudo Blog application made using Django
 6. Endpoints are added for the api. PostList: to get the list of all blogs, PostDetail: to get the detail of specific blog.
 7. Added test User and login feature for now on endpoints.
 8. changing permissions at view level for better access.
+9. Adding permission at project level as it can be hard to manage multiple views.
