@@ -5,4 +5,6 @@ Pseudo Blog application made using Django
 3. Adding model for post : Author, title , body , createdAt , updatedAt. will be using default auth model for the user. This will  import the user from or auth into the model and will help in avoiding duplication.
 4. Added basic testcase for checking our model for posts.
 5. Added Django rest framework and added default permissions.
-6. Endpoints are added for the api. PostList: to get the list of all blogs, PostDetail: to get the detail of specific blog
+6. Endpoints are added for the api. PostList: to get the list of all blogs, PostDetail: to get the detail of specific blog.
+7. Added test User and login feature for now on endpoints.
+8. changing permissions at view level for better access.
