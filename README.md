@@ -11,3 +11,5 @@ Pseudo Blog application made using Django
 9. Adding permission at project level as it can be hard to manage multiple views.
 10. Implementing token based authentication on django.
 11. Using django-rest-auth in combination with django-allauth to simplify authentication endpoint creation for sign-in, sign-up and sign-out.
+12. Setting django auth for sign up and email backend service. will console log email for now.
+
