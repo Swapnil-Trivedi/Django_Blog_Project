@@ -8,6 +8,7 @@ djangorestframework = "*"
 django-rest-auth = "*"
 django = "==3.2.10"
 django-allauth = "==0.40.0"
+windows-curses = "*"
 
 [dev-packages]
 

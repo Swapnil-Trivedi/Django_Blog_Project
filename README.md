@@ -12,4 +12,15 @@ Pseudo Blog application made using Django
 10. Implementing token based authentication on django.
 11. Using django-rest-auth in combination with django-allauth to simplify authentication endpoint creation for sign-in, sign-up and sign-out.
 12. Setting django auth for sign up and email backend service. will console log email for now.
-
+13. functionality endpoints added so far :
+            |Endpoint                           |HTTP Verb|
+            |-----------------------------------|---------|
+            |/                                  |GET      |
+            |/:pk/                              |GET      |
+            |/rest-auth/registration            |POST     |
+            |/rest-auth/login                   |POST     |
+            |/rest-auth/logout                  |GET      |
+            |/rest-auth/password/reset          |POST     |
+            |/rest-auth/password/reset/confirm  |POST     |
+14. Adding two endpoints one to get list of all the users and other to get a specific user.
+15. Added viewset and routes to eliminate multiple views for multiple endpoints.
