@@ -9,6 +9,8 @@ django-rest-auth = "*"
 django = "==3.2.10"
 django-allauth = "==0.40.0"
 windows-curses = "*"
+coreapi = "==2.3.3"
+pyyaml = "==5.1.2"
 
 [dev-packages]
 

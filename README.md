@@ -24,3 +24,5 @@ Pseudo Blog application made using Django
             |/rest-auth/password/reset/confirm  |POST     |
 14. Adding two endpoints one to get list of all the users and other to get a specific user.
 15. Added viewset and routes to eliminate multiple views for multiple endpoints.
+16. Adding documentation for the endpoints.
+17. Adding schema for the API and default documentation.
