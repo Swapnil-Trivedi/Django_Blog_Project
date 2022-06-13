@@ -26,3 +26,4 @@ Pseudo Blog application made using Django
 15. Added viewset and routes to eliminate multiple views for multiple endpoints.
 16. Adding documentation for the endpoints.
 17. Adding schema for the API and default documentation.
+18. Dockerized the whole app.
