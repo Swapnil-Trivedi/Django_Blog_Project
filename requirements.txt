@@ -1,0 +1,7 @@
+
+django==3.2.10
+django-allauth==0.41.0
+djangorestframework
+django-rest-auth
+coreapi==2.3.3
+pyyaml==5.1.2
