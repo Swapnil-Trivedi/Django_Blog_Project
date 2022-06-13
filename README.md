@@ -33,7 +33,7 @@ So to run tests, go to your command line prompt and execute the following comman
 
 ```
     sh
-    $cd Django_Blog_Project
+    $ cd Django_Blog_Project
     $ python manage.py test posts
 
 ```
